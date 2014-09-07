@@ -1,0 +1,2 @@
+<em>Officernd Rooms Manager</em> gives you a beautiful UI to manage your personal rooms and Organizations you're part of.
+<em>Officernd Organization Manager</em> gives you a nice UI to fully manage your organization space, rooms and desks, as well all the Organization members and their office presence.

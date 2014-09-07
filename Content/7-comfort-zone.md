@@ -1,0 +1,1 @@
+It's that important to feel comfortable on your desk. You should have enough but not too much light. The position of you collegues matter. Where is door? The air-conditioner? The windows? Is something distracting you?
