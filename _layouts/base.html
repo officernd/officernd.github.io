@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+<body class="{{ page.class }}">
+
+  {% if page.category != 404 %}
+  {% include header.html %}
+  {% endif %}
+
+  {% if page.markdown == 1 %}
+    {{ content | markdownify }}
+  {% else %}
+    {{ content }}
+  {% endif %}
+
+  {% if page.category != 404 %}
+  {% include foot.html %}
+  {% endif %}
+</body>
+</html>
