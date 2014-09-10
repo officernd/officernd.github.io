@@ -371,5 +371,6 @@ Full-Width Styles
     padding: 40px 0px;
 }
 
-.page_head_wrap {
+#page_header_wrap {
+    background-color: #e7e7e7;
 }
