@@ -4,5 +4,5 @@ $(function () {
         list = $('.list-group');
 
     list.find('.active').removeClass('active');
-    list.find('[href=/' + loc + ']').addClass('active');
+    list.find('a[href="/' + loc + '"]').addClass('active');
 });
