@@ -334,6 +334,9 @@ Full-Width Styles
 .table-list {
     padding: 0 0 40px 0;
     table-layout: fixed;
+}
+
+.table-list h4 {
     color: #ffffff;
 }
 
