@@ -2,15 +2,16 @@
 layout: base
 markdown: 0
 ---
-<main class="container">
-    <div class="row">
-        <div id="main_content_wrap" class="outer">
-
+<div id="main_content_wrap" class="outer">
+    <div class="container">
+        <div class="row">
             <div class="page-header">
                 <h1>{{ page.title }}</h1>
             </div>
+        </div>
 
 
+        <div class="row">
             {% if page.sidebar %}
             <nav class="col-sm-3">
                 {% include {{page.sidebar}} %}
@@ -53,4 +54,5 @@ markdown: 0
                 {% endif %}
             </article>
         </div>
-</main>
+    </div>
+</div>
