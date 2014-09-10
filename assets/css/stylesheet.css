@@ -369,6 +369,9 @@ Full-Width Styles
 
 .page-header {
     text-transform: uppercase;
+}
+
+.page-header h1 {
     color: #ffffff;
 }
 
@@ -381,5 +384,5 @@ article {
 }
 
 .page_head_wrap {
-    background-color: #428bca;
+    background-color: #212121;
 }
