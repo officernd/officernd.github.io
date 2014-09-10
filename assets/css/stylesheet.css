@@ -369,7 +369,7 @@ Full-Width Styles
 
 .page-header {
     text-transform: uppercase;
-    background-color: #212121;
+    color: #ffffff;
 }
 
 .footer-index {
@@ -378,4 +378,8 @@ Full-Width Styles
 
 article {
     padding: 40px 0px;
+}
+
+.page_head_wrap {
+    background-color: #428bca;
 }
