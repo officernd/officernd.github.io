@@ -373,3 +373,11 @@ Full-Width Styles
     text-align: center;
     text-transform: uppercase;
 }
+
+.footer-index {
+    padding: 40px 0px;
+}
+
+article {
+    padding: 40px 0px;
+}
