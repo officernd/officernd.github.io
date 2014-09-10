@@ -3,9 +3,9 @@ layout: base
 markdown: 0
 ---
 <div id="main_content_wrap">
-    <div class="container">
-        <div class="row">
-            <div id="page_header_wrap">
+    <div id="page_header_wrap">
+        <div class="container">
+            <div class="row">
                 <div class="col-sm-9 col-sm-offset-3">
                     <h1>{{ page.title }}</h1>
                 </div>
@@ -13,7 +13,7 @@ markdown: 0
         </div>
     </div>
 
-    <div class="main_content container">
+    <div class="container">
         <div class="row">
             {% if page.sidebar %}
             <nav class="col-sm-3">
@@ -44,15 +44,6 @@ markdown: 0
                     }(document, 'script', 'twitter-wjs');</script>
                     <script src="https://apis.google.com/js/plusone.js"></script>
                     <g:plus action="share"></g:plus>
-                </div>
-                {% endif %}
-
-                {% if page.class == 'documentation' %}
-                <div class="contribute-doc">
-                    Found a typo? An unclear example? Help us improve our documentation by forking and sending your
-                    fixes and suggestions. <a
-                        href="https://github.com/yeoman/yeoman.io/tree/master/app{{ page.url | replace:'.html','.md' }}">Improve
-                    this Page!</a>
                 </div>
                 {% endif %}
             </article>

@@ -347,21 +347,11 @@ Full-Width Styles
     list-style: none;
 }
 
-.page-header {
-    text-transform: uppercase;
-}
-
-.page-header h1 {
-}
-
 .footer-index {
-    padding: 40px 0px;
-}
-
-.main_content {
     padding: 40px 0px;
 }
 
 #page_header_wrap {
     background-color: #e7e7e7;
+    text-transform: uppercase;
 }
