@@ -8,9 +8,9 @@ excerpt: What role do I have?
 
 Room, which is not part of any organization:
 When created, its creator is added with Owner role to the room. Every member of the room sees the room in their dashboard. Specific privileges:
-- Owner - can invite other members, lock/unlock the room or delete it
-- Contributor - can edit the room floor plan, but cannot lock/unlock it
-- Viewer - can see the room read-only (and add comments?)
+* Owner - can invite other members, lock/unlock the room or delete it
+* Contributor - can edit the room floor plan, but cannot lock/unlock it
+* Viewer - can see the room read-only (and add comments?)
 
 Organization:
 When created, organization's creator is added with Owner role to the Organization. Every member of the organization sees the organization in their dashboard. Specific privileges:
