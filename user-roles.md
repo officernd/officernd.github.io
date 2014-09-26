@@ -1,3 +1,11 @@
+---
+layout: documentation
+title: Officernd Organizations
+category: organization
+sidebar: navigation.html
+excerpt: What role do I have?
+---
+
 Room, which is not part of any organization:
 When created, its creator is added with Owner role to the room. Every member of the room sees the room in their dashboard. Specific privileges:
 - Owner - can invite other members, lock/unlock the room or delete it
