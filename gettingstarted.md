@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Get started with Officernd
+title: Get started
 category: organization
 sidebar: navigation.html
 excerpt: Just starting with Officernd?
