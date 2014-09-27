@@ -4,3 +4,11 @@
     <a href="/organization" class="list-group-item">Manage your Organization</a>
     <a href="/user-roles" class="list-group-item">User roles</a>
 </div>
+
+<div class="list-group">
+    {% for page in site.pages %}
+    <a href="page.url" class="list-group-item">{{ page.title }}</a>
+    {% endfor %}
+</div>
+
+
