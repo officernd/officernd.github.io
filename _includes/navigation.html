@@ -1,7 +1,9 @@
 <div class="list-group">
     <a href="/" class="list-group-item">Home</a>
     {% for page in site.pages %}
-    <a href="{{ page.url }}" class="list-group-item">{{ page.title }}</a>
+        {% if page.url != "index.html" %}
+        <a href="{{ page.url }}" class="list-group-item">{{ page.title }}</a>
+        {% endif %}
     {% endfor %}
 </div>
 
