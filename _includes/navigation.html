@@ -3,4 +3,11 @@
     <a href="/gettingstarted" class="list-group-item">Getting started</a>
     <a href="/organization" class="list-group-item">Manage your Organization</a>
     <a href="/user-roles" class="list-group-item">User roles</a>
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
 </div>
