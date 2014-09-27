@@ -2,7 +2,7 @@
     <a href="/" class="list-group-item">Home</a>
     {% for page in site.pages %}
         {% unless page.ignored %}
-        <a href="{{ page.url }}" class="list-group-item">{{ page.title }} {{ page.ignored }} {{ page }}</a>
+        <a href="{{ page.url }}" class="list-group-item">{{ page.title }} {{ page.ignored }}</a>
         {% endunless %}
     {% endfor %}
 </div>
