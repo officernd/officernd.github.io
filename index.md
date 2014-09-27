@@ -4,6 +4,7 @@ title: Office Rooms and Desks Help
 category: organization
 sidebar: navigation.html
 excerpt: Just starting with Officernd?
+ignored: yes
 ---
 
 # Features
