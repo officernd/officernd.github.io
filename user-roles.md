@@ -1,9 +1,9 @@
 ---
 layout: documentation
-title: Officernd Organizations
+title: User roles and permissions
 category: organization
 sidebar: navigation.html
-excerpt: What role do I have?
+excerpt: What permissions a user have depending on their role in the organization and/or the room
 ---
 
 Room, which is not part of any organization:
