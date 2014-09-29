@@ -7,14 +7,14 @@ excerpt: What permissions a user have depending on their role in the organizatio
 ---
 ### Room, which is not part of any organization
 When a room is created, its creator is added with Owner role to the room's member list. Every member of the room can see the room in their dashboard. Specific privileges for every role:
-  + Owner - can invite other members, lock/unlock the room or delete it
-  - Contributor - can edit the room floor plan, but cannot lock/unlock it
-  * Viewer - can see the room read-only (and add comments?)
+  + Owner - can invite other members, lock/unlock the room, change its name or delete it
+  - Contributor - can edit the room floor plan, but cannot lock/unlock, rename or delete it
+  * Viewer - can see the room read-only
 
 ### User roles in organizations
-When organization is created, its creator is added with Owner role to its members list. Every member of the organization can see the organization in their dashboard. The specific priviliges for each role are:
+When organization is created, its creator is added with Owner role to its members list. Every member of the organization can see it in their dashboard. The specific priviliges for each role are:
 - Owner - can invite other members, edit organization metadata and delete it. It can also delete existing rooms and offices
-- Contributor - can add rooms and offices to the organization (but cannot delete rooms, if they are not their owners)
+- Contributor - can add rooms and offices to the organization (but cannot delete rooms, if they are not their owner ones)
 - Viewer - can see offices and rooms in the organization
 
 ### Effective user role and priviliges
