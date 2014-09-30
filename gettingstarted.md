@@ -9,8 +9,9 @@ ignored: yes
 
 # Start with an Organization or with a Room
 Once you sign up with Officernd, you will be prompted to create your first [Organization](/concepts.html#Organization) or [Room](/concepts.html#Room).
-How to start depends mostly on your preference at the time you start using Officernd. If you only need to design a single room and share it the friends, co-workers or the entire world, you'd better (start with a simple Room)[#room). 
-If you, on the other side, plan to set up your entire Organization structure, well, you'd better go for an [Organization](#organization). It will give you the whole flexibility Officernd is capable of.
+How to start depends mostly on your preference at the time you start using Officernd. If you only need to design a single room and share it the friends, co-workers or the entire world, you'd better [start with a simple Room](#room). 
+If you, on the other hand, plan to set up your entire Organization structure with all the [Offices] (/concepts.html#Office), [Rooms](/concepts.html#Room), [Members](/concepts.html#Member) and [Desks](/concepts.html#Desk), well, you'd better go and set up an [Organization](#organization). 
+It will give you the all the flexibility Officernd is capable of.
 
 ## <a name='organization'></a>Set up an Organization
 
