@@ -30,6 +30,7 @@ Room HQ1-105 is part of OfficeRND organization. John is Owner of the organizatio
 * Tanya is Viewer
 
 and for the organization OfficeRND:
+
 * John is Owner
 * Tim is Collaborator
 * Peter is Collaborator
