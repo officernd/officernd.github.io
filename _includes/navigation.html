@@ -1,5 +1,6 @@
 <div class="list-group">
     <a href="/" class="list-group-item">Home</a>
+    <a href="/gettingstarted.html" class="list-group-item">Getting Started</a>
     {% for page in site.pages %}
         {% unless page.ignored %}
         <a href="{{ page.url }}" class="list-group-item">{{ page.title }}</a>

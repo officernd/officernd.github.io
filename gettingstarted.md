@@ -4,6 +4,7 @@ title: Get started
 category: organization
 sidebar: navigation.html
 excerpt: Just starting with Officernd?
+ignored: yes
 ---
 
 Create an office space your team loves.

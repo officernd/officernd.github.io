@@ -96,15 +96,6 @@ p {
     margin: 10px 0 15px 0;
 }
 
-footer p {
-    color: #f2f2f2;
-}
-
-footer a {
-    color: #F2F2F2;
-    text-decoration: underline;
-}
-
 em {
     font-style: italic;
 }
@@ -348,7 +339,23 @@ Full-Width Styles
 }
 
 .footer-index {
-    padding: 40px 0px;
+    background-color: #333333;
+    padding-top: 60px;
+}
+
+.footer-index a {
+    color: #ffffff !important;
+}
+
+.footer-index h4 {
+    color: #959291;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+footer {
+    padding-bottom: 60px;
 }
 
 #page_header_wrap {
