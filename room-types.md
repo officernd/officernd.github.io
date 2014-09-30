@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Officernd Concepts
+title: Room Types
 category: organization
 sidebar: navigation.html
 excerpt: Officernd main concepts

@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Officernd Concepts
+title: Concepts
 category: organization
 sidebar: navigation.html
 excerpt: Officernd main concepts
