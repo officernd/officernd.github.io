@@ -1,9 +1,9 @@
 ---
 layout: documentation
-title: Concepts
+title: Offices, Rooms and Desks
 category: organization
 sidebar: navigation.html
-excerpt: Officernd main concepts
+excerpt: Officernd main concepts - Organization, Offices, Rooms, Members and Desks
 ---
 
 _Office Rooms and Desks_ has five main concepts:
