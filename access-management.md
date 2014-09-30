@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Access Management for Officernd Organization and Rooms
+title: Access Management
 category: organization
 sidebar: navigation.html
 excerpt: Access Management for Officernd Organization and Rooms
