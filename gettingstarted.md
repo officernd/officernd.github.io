@@ -7,21 +7,8 @@ excerpt: Just starting with Officernd?
 ignored: yes
 ---
 
-Create an office space your team loves.
+# Start with an [Organization](/concepts.html#Organization) or with a [Room](/concepts.html#Room)
 
-<aside class="excerpt">
-  Note: Excerpt
-</aside>
+## Set up an [Organization](/concepts.html#Organization)
 
-
-## Start with a room or Organization
-
-### Setting up an Organization
-
-An Organization is the ...
-
-### Design your Rooms
-
-The Rooms are the building blocks of an office...
-
-## Manage Organization members
+## Set up a [Room](/concepts.html#Room)
