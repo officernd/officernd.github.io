@@ -26,3 +26,4 @@ Starting from a room is as simple as:
 3. Choose from our predefined types. Read about the different room types [here](/room-types.html);
 4. Add it directly or open it up inside Officernd Designer and start designing it.
 Please note that every room could have separate [access management rights](/user-rolser.html), so you can share it with your friends or co-workers later on.
+![Create Room](http://s3.amazonaws.com/Officernd/screens/CreateRoom.png)
