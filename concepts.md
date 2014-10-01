@@ -6,7 +6,7 @@ sidebar: navigation.html
 excerpt: Officernd main concepts - Organization, Offices, Rooms, Members and Desks
 ---
 
-_Office Rooms and Desks_ has five main concepts:
+_Officernd_ has five main concepts:
 
 * [Organization](#Organization)
 * [Office](#Office)

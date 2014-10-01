@@ -398,3 +398,9 @@ footer {
     background-color: #e7e7e7;
     text-transform: uppercase;
 }
+
+.logo-brand {
+    width: 140px;
+    height: 50px;
+    background: url(//s3.amazonaws.com/Officernd/site/imgs/logos/LogoHeaderInverted.png) no-repeat center;
+}

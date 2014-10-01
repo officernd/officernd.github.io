@@ -6,7 +6,7 @@ sidebar: navigation.html
 excerpt: Officernd main concepts
 ---
 
-_Office Rooms and Desks_ has 9 different room types, grouped in 3 categories:
+_Officernd_ has 9 different room types, grouped in 3 categories:
 
 * **Work space**
     * [Empty room](#Empty room)

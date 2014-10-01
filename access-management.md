@@ -9,7 +9,7 @@ excerpt: Access Management for Officernd Organization and Rooms
 Every [Organization](/concepts.html#Organization) or [Room](/concepts.html#Room) can be made Public or remain Private. 
 
 # <a name="Private"></a>Private
-Private Organizations are visible only for its [Members] (/concepts.html#Member). 
+Private Organizations are visible only for its [Members](/concepts.html#Member). 
 Members are usually distributed in Roles that has different access rights and responsibilities. You can read more about it [here](/user-roles.html).
 
 # <a name="Public"></a>Public
