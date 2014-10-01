@@ -375,9 +375,13 @@ footer {
     padding: 20px 0px;
 }
 
+#header_wrap {
+    height: 70px;
+    line-height: 70px;
+}
+
 .logo-brand {
     width: 140px;
-    height: 50px;
+    height: 70px;
     background: url(//s3.amazonaws.com/Officernd/site/imgs/logos/LogoHeaderInverted.png) no-repeat center;
-    margin-top: 5px;
 }
