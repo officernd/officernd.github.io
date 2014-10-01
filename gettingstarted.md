@@ -20,3 +20,9 @@ The second option will create your own Organization with 2 beautiful Offices eac
 Once you name your Organization (Please note that the name should be **Unique**. Once you create Organization with a name, you will have reserved URL for it.), you may enter a bit more info about it at the _Settings_ tab.
 
 ## <a name='room'></a>Set up a Room
+Starting from a room is as simple as:
+1. Name it;
+2. Add some optional parameters - floor;
+3. Choose from our predefined types. Read about the different room types [here](/room-types.html);
+4. Add it directly or open it up inside Officernd Designer and start designing it.
+Please note that every room could have separate [access management rights](/user-rolser.html), so you can share it with your friends or co-workers later on.
