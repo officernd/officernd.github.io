@@ -7,10 +7,9 @@ excerpt: Release History of Officernd
 ignored: yes
 ---
 
-> **Officernd Version**: v0.2.132
-> **Released on**: 15/11/2014
+# <a name="15/11/2014"></a> Version 0.2.132 - 15/11/2014
 
-# What's new
+## What's new
 We implemented several major features that will help you more easily plan the Office you and your team loves.
 
 * **Simple room view** - You can open or share just the room with its furniture outside of the context of the Design surface.
@@ -29,7 +28,7 @@ We implemented several major features that will help you more easily plan the Of
     * **Room properties** - this will give you more information about the room size and wall lengths.
     * **Furniture** - you can see the details of all furniture in your room on the surface.
 
-# What's fixed
+## What's fixed
 We fixed several of major and little issues and annoying things.
 
 * **Export** - The export is more accurate and works as expected.
