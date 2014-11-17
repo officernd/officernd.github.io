@@ -8,7 +8,9 @@ ignored: yes
 ---
 
 <a name="15-11-2014"></a>
-> **Officernd Version**: v0.2.132  
+
+> **Officernd Version**: v0.2.132
+>
 > **Released on**: 15/11/2014
 
 # What's new
