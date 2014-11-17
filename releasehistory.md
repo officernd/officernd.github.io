@@ -8,7 +8,6 @@ ignored: yes
 ---
 
 > **Officernd Version**: v0.2.132
-
 > **Released on**: 15/11/2014
 
 # What's new
@@ -25,7 +24,7 @@ We implemented several major features that will help you more easily plan the Of
     * Or you want to experiment with your room without modifying the original one.
 * **Share your room** in Social media - You can now share your public room with nice preview on Facebook.
 * **New furniture** - We've added many furniture that will make your plans closer to your real room.
-* Different layers of **Details** of a room.
+* **Details** of a room on different layers.
     * **Members** - on the design surface, click on *Details/Members*. This will show you the members that are assigned to each desk.
     * **Room properties** - this will give you more information about the room size and wall lengths.
     * **Furniture** - you can see the details of all furniture in your room on the surface.
