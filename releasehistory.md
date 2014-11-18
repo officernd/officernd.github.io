@@ -16,19 +16,19 @@ ignored: yes
 # What's new
 We implemented several major features that will help you more easily plan the Office you and your team loves.
 
-* **Simple room view** - You can open or share just the room with its furniture outside of the context of the Design surface.
-    * Always up to date export - It represents image like experience but is always up to date.
-    * Integrate into your own website - You can grab the room and integrate it into your own website.
-    * Or just share your room with friends and co-workers.
-    * Go to the design surface of you room and click on *Share/Simple room view* or go *Room Settings/Simple room view*
 * **Copy a room** - You can now Copy (Duplicate) entire room.
     * This is really handy feature if you want to create a **different version** of your room.
-    * You have different layouts of the same room.
+    * You have different layouts (arrangements) of the same room.
     * Or you want to experiment with your room without modifying the original one.
+* **Simple room view** - You can open or share just the room with its furniture outside of the context of the Design surface.
+    * Always up to date export - It represents image like experience but is always up to date.
+    * You can integrate the room directly into your own website.
+    * Or just share your room with friends and co-workers.
+    * Go to the design surface of your room and click on *Share/Simple room view* or go *Room Settings/Simple room view*.
 * **Share your room** in Social media - You can now share your public room with nice preview on Facebook.
 * **New furniture** - We've added many furniture that will make your plans closer to your real room.
-* **Details** of a room on different layers on the Design surface.
-    * **Members** - on the design surface, click on *Details/Members*. This will show you the members that are assigned to each desk.
+* **Details** of the room at different layers on the Design surface.
+    * **Members** layer - on the design surface, click on *Details/Members*. This will show you the members that are assigned to each desk.
     * **Room properties** - this will give you more information about the room size and wall lengths.
     * **Furniture** - you can see the details of all furniture in your room on the surface.
 * **Notifications system** - you are now able to see immediate updates about important news regarding Officernd. Just click on the little *bell* sign next to your name in the header.
