@@ -7,6 +7,26 @@ excerpt: Release History of Officernd
 ignored: yes
 ---
 
+<a name="07-04-2015"></a>
+
+> **Officernd Version**: v0.2.400
+>
+> **Released on**: 07/04/2015
+
+# What's new
+We have planty of improvements and features in OfficeRnD. Now it's event easier to plan your office space and make it even better.
+
+* **Tools** - do more in the space designer
+    * Selection tool - select many shapes just by dragging
+    * Pan tool - move your viewport just by dragging the floorplan and zoom in/out with mouse wheel
+    * Wall tool - create new walls and split exiting with simple clicks
+* **Workstation templates** - create single, double or triple worstation with a single operation with the new templates
+* **Wall improvements**
+   * Drag walls to adjust room size
+   * Set wall length for precise room size
+* **UI improvements** - we've been busy making the UI feel better and make you more productive
+* **Export improvements** - it is even easier
+
 <a name="15-11-2014"></a>
 
 > **Officernd Version**: v0.2.132
