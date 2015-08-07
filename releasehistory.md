@@ -7,9 +7,9 @@ excerpt: Release History of OfficeR&D
 ignored: yes
 ---
 
-<a name="05-08-2015"></a>
+<a name="v0.3"></a>
 
-> **OfficeR&D Version**: v0.3
+> [**OfficeR&D Version**: v0.3](#v0.3)
 >
 > **Released on**: 05/08/2015
 
@@ -60,6 +60,3 @@ You can assign the desk directly to the company now.
 You can change the names/IDs of your desks from the design mode now
 
 <div class="clearfix"></div>
-
-# What's fixed
-We fixed several of major and little issues and annoying things.
